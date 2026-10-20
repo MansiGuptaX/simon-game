@@ -1,2 +1,2 @@
 # simon-game
-practice of javasccript
+practice of javasccript.
